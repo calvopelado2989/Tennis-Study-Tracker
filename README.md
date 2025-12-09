@@ -1,6 +1,6 @@
 # Tennis & Study Tracker
 
-A simple Java console application to track your tennis training and study hours, helping you maintain a healthy balance.
+A simple Java console application to track tennis training and study hours, in order to maintain a healthy balance.
 
 ## Features
 
